@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db47ea8c-c50c-42be-a381-b783f145ea3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,8 +15,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -98,20 +99,8 @@
       <option name="presentableId" value="Default" />
       <updated>1573433650568</updated>
       <workItem from="1573433651882" duration="843000" />
-<<<<<<< Updated upstream
       <workItem from="1573435260769" duration="585000" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-      <workItem from="1573436163130" duration="281000" />
-=======
-      <workItem from="1573435260769" duration="1830000" />
->>>>>>> Stashed changes
-=======
-      <workItem from="1573436163130" duration="1508000" />
->>>>>>> developer
-=======
-      <workItem from="1573436163130" duration="2091000" />
->>>>>>> developer
+      <workItem from="1573436163130" duration="4017000" />
     </task>
     <servers />
   </component>
