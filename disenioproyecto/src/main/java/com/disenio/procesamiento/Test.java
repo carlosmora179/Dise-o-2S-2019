@@ -15,7 +15,7 @@ public class Test {
     public static void main(String[] args) {
         try {
             final String claveEncriptacion = "Funko";
-            String datosOriginales = "8965-6548-6985-2214";
+            String datosOriginales = "5518980046210412";
 
             Cifrar encriptador = new Cifrar();
 
